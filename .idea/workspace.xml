@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89697267-1e3b-4293-9340-3dc4e14e4e4e" name="Changes" comment="BuildingRace solution - CodeChef">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="89697267-1e3b-4293-9340-3dc4e14e4e4e" name="Changes" comment="A or B solution - CodeChef">
+      <change afterPath="$PROJECT_DIR$/src/CodeChef/AorB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -45,6 +46,7 @@
     "Application.BuildingRace.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -80,11 +82,20 @@
       <option name="project" value="LOCAL" />
       <updated>1779740635484</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="A or B solution - CodeChef">
+      <option name="closed" value="true" />
+      <created>1779813739287</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779813739287</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="BuildingRace solution - CodeChef" />
-    <option name="LAST_COMMIT_MESSAGE" value="BuildingRace solution - CodeChef" />
+    <MESSAGE value="A or B solution - CodeChef" />
+    <option name="LAST_COMMIT_MESSAGE" value="A or B solution - CodeChef" />
   </component>
 </project>
