@@ -1,5 +1,4 @@
 /*
-Link: https://www.codechef.com/learn/course/klu-problem-solving-2025/KLPS2520/problems/AORB
 There are two problems in a contest.
 Problem A is worth 500 points at the start of the contest.
 Problem B is worth 1000 points at the start of the contest.
